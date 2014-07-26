@@ -14,7 +14,7 @@ With this workflow you can:
 
 ## Prerequisites
 
-Well, you need Mac of course. With TextMate on it. And Alfred, including the [productivity pack](http://www.alfredapp.com/powerpack/). Duh.
+Well, you need a Mac of course. With TextMate on it. And Alfred, including the [productivity pack](http://www.alfredapp.com/powerpack/).
 
 ## Installation
 
@@ -22,16 +22,16 @@ Download the [TextMate Favorites](https://github.com/voostindie/alfred-textmate-
 
 ## Usage instructions
 
-If you already have a list of favorites set up, just type `tmf` and you should see it. Just select one and press Return. The project will open in TextMate. Of course you can continue typing to shorten the list.
+If you already have a list of favorites set up, just type `tmf` and you should see it. Just select one and press *Return*. The project will open in TextMate. Of course you can continue typing to shorten the list.
 
 If you don't have any favorites yet, it's time to create one:
 
 * Using the Alfred file browser, select the directory you wish to add as a favorite.
-* Open the action panel (defaults to right arrow).
-* Select the "Add to TextMate Favorites" option and execute it.
+* Open the action panel (defaults to *right arrow*).
+* Select the "Add to TextMate Favorites" option and press *Return*.
 
 This is the way to add any folder as a favorite project.
 
-To remove a favorite, first select it in the favorites list (`tmf`) and then press Return while holding the Command key.
+To remove a favorite, first select it in the favorites list (`tmf`) and then press *Return* while holding the *Command* key.
 
 That's it!
