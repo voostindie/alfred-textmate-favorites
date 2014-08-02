@@ -2,9 +2,7 @@
 
 ## Introduction
 
-[TextMate 2](https://github.com/textmate/textmate) is my current editor for all things text. I have many projects that I work on. TextMate has a handy "Open Favorites..." menu item - *Command + Shift + O* - to easily switch projects. Unfortunately, the current alpha (9551, at the time of writing), doesn't support modifying this list of favorites, rendering this otherwise nice feature hard to use.
-
-Enter this [Alfred](http://www.alfredapp.com) workflow.
+[TextMate 2](https://github.com/textmate/textmate) is my current editor for all things text. I have many projects that I work on. TextMate has a handy "Open Favorites..." menu item - *Command + Shift + O* - to easily switch projects. This [Alfred](http://www.alfredapp.com) workflow allows you to manipulate the favorites from outside TextMate.
 
 With this workflow you can:
 
